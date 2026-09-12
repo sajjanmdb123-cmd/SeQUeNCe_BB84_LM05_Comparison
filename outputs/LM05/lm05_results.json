@@ -1,0 +1,122 @@
+[
+  {
+    "NT": 4,
+    "distance_km": 2,
+    "QBER": 0.015096460740232595,
+    "SKR": 0.1194525678980395,
+    "sifted_key_length": 2,
+    "key_match": true
+  },
+  {
+    "NT": 4,
+    "distance_km": 4,
+    "QBER": 0.015155762585243244,
+    "SKR": 0.07304590342474597,
+    "sifted_key_length": 2,
+    "key_match": true
+  },
+  {
+    "NT": 4,
+    "distance_km": 6,
+    "QBER": 0.01527821628074977,
+    "SKR": 0.040462339354008885,
+    "sifted_key_length": 3,
+    "key_match": true
+  },
+  {
+    "NT": 4,
+    "distance_km": 8,
+    "QBER": 0.015546082327736709,
+    "SKR": 0.020423753152060284,
+    "sifted_key_length": 1,
+    "key_match": true
+  },
+  {
+    "NT": 4,
+    "distance_km": 10,
+    "QBER": 0.01614547512703242,
+    "SKR": 0.009632157930796277,
+    "sifted_key_length": 0,
+    "key_match": false
+  },
+  {
+    "NT": 8,
+    "distance_km": 2,
+    "QBER": 0.015095325031366881,
+    "SKR": 0.24144982500111267,
+    "sifted_key_length": 2,
+    "key_match": true
+  },
+  {
+    "NT": 8,
+    "distance_km": 4,
+    "QBER": 0.015149468753047459,
+    "SKR": 0.15225046129189687,
+    "sifted_key_length": 3,
+    "key_match": true
+  },
+  {
+    "NT": 8,
+    "distance_km": 6,
+    "QBER": 0.015252502580087385,
+    "SKR": 0.08928695570514003,
+    "sifted_key_length": 2,
+    "key_match": true
+  },
+  {
+    "NT": 8,
+    "distance_km": 8,
+    "QBER": 0.015455234696270217,
+    "SKR": 0.04913241454482171,
+    "sifted_key_length": 2,
+    "key_match": true
+  },
+  {
+    "NT": 8,
+    "distance_km": 10,
+    "QBER": 0.015851439281776805,
+    "SKR": 0.026055993677832404,
+    "sifted_key_length": 3,
+    "key_match": true
+  },
+  {
+    "NT": 12,
+    "distance_km": 2,
+    "QBER": 0.015089562996582276,
+    "SKR": 0.38697873313284376,
+    "sifted_key_length": 1,
+    "key_match": true
+  },
+  {
+    "NT": 12,
+    "distance_km": 4,
+    "QBER": 0.015138260060224935,
+    "SKR": 0.24768320622167458,
+    "sifted_key_length": 1,
+    "key_match": true
+  },
+  {
+    "NT": 12,
+    "distance_km": 6,
+    "QBER": 0.01522829140949568,
+    "SKR": 0.1485300675041995,
+    "sifted_key_length": 2,
+    "key_match": true
+  },
+  {
+    "NT": 12,
+    "distance_km": 8,
+    "QBER": 0.015399080714287179,
+    "SKR": 0.0842803012059822,
+    "sifted_key_length": 0,
+    "key_match": false
+  },
+  {
+    "NT": 12,
+    "distance_km": 10,
+    "QBER": 0.015718022855282354,
+    "SKR": 0.04649053286321387,
+    "sifted_key_length": 3,
+    "key_match": true
+  }
+]
